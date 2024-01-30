@@ -198,12 +198,12 @@ body {
 } */
 
 .quotes--spacing{
-    padding-left: 50px;
+    padding-left: 30px;
     padding-top: 10px;
     margin: 25px auto;
-    box-shadow: 0px 0px 5px 7px rgba(0, 0, 0, .2);
+    /* box-shadow: 0px 0px 5px 7px rgba(0, 0, 0, .2); */
     border-radius: 10px;
-    max-width: 47%;
+    max-width: 49%;
 }
 
 .quite-name{
